@@ -1,3 +1,2 @@
 # example2
-lee cuidadosamente 
-periodico industrial
+lee cuidadosamente el siguiente texto
